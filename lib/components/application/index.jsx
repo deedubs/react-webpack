@@ -6,7 +6,6 @@
  * @typeof Component
  * @requires react
  * @requires react-router
- * @requires locale-store
  */
 var React = require('react');
 var Router = require('react-router');

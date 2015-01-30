@@ -21,6 +21,9 @@ internals.component = {
      * @return {React.Element}
      */
     render: function () {
+
+        console.log('Rendering page 2');
+
         return (
             <div>
                 <h2>Page 2</h2>
